@@ -95,7 +95,7 @@ smart-table-generator/
 
 👨‍💻 **Developer:** Kabeer Hussain  
 📘 **Series:** JavaScript — 30 Days, 30 Projects  
-📆 **Day:** ```css 12 — Smart Table Generator```  
+📆 **Day:** ```12 — Smart Table Generator```  
 📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
