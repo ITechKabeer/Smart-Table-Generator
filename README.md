@@ -60,18 +60,18 @@ smart-table-generator/
 
 ## 🛠️ Technologies Used
 
-HTML5
-CSS3 (CSS Variables & Dark Theme)
-Vanilla JavaScript (DOM Manipulation & LocalStorage)
+- HTML5
+- CSS3 (CSS Variables & Dark Theme)
+- Vanilla JavaScript (DOM Manipulation & LocalStorage)
 
 ## 🎯 Learning Goals
 
-DOM Manipulation
-Form Validation
-LocalStorage usage
-CSS Variables for theming
-Clean UI/UX practices
-JavaScript loops & logic
+- DOM Manipulation
+- Form Validation
+- LocalStorage usage
+- CSS Variables for theming
+- Clean UI/UX practices
+- JavaScript loops & logic
 
 ## 📸 Preview
 
@@ -79,11 +79,11 @@ Your multiplication table appears instantly with smooth animations and theme-bas
 
 ## 🧪 Why This Project Is Special
 
-Beginner-friendly yet professional
-Real-world form validation practice
-Dark/Light theme implementation
-Clean, scalable structure
-Perfect for JavaScript portfolios
+- Beginner-friendly yet professional
+- Real-world form validation practice
+- Dark/Light theme implementation
+- Clean, scalable structure
+- Perfect for JavaScript portfolios
 
 ## 🛠️ Developer Info
 
