@@ -99,5 +99,4 @@ smart-table-generator/
 📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-**⭐ If you like this project, don’t forget to star the repository**
 Made by Kabeer Hussain ❤️ || Mern Stack Learner
