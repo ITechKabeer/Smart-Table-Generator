@@ -64,6 +64,8 @@ smart-table-generator/
 - CSS3 (CSS Variables & Dark Theme)
 - Vanilla JavaScript (DOM Manipulation & LocalStorage)
 
+---
+
 ## 🎯 Learning Goals
 
 - DOM Manipulation
@@ -75,7 +77,9 @@ smart-table-generator/
 
 ## 📸 Preview
 
-Your multiplication table appears instantly with smooth animations and theme-based styling.
+*![App Preview](demo.jpeg)*
+
+---
 
 ## 🧪 Why This Project Is Special
 
@@ -85,13 +89,15 @@ Your multiplication table appears instantly with smooth animations and theme-bas
 - Clean, scalable structure
 - Perfect for JavaScript portfolios
 
+---
+
 ## 🛠️ Developer Info
 
-👨‍💻 Developer: Kabeer Hussain
-📆 Day: ```css 12 — Smart Table Generator```
-🎯 Track: JavaScript Daily Practice
-📧 Email: codealpha0786@gmail.com
-🔗 GitHub: ITechKabeer
+👨‍💻 **Developer:** Kabeer Hussain  
+📘 **Series:** JavaScript — 30 Days, 30 Projects  
+📆 **Day:** ```css 12 — Smart Table Generator```  
+📧 **Email:** codealpha0786@gmail.com  
+🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-⭐ If you like this project, don’t forget to star the repository
+**⭐ If you like this project, don’t forget to star the repository**
 Made by Kabeer Hussain ❤️ || Mern Stack Learner
