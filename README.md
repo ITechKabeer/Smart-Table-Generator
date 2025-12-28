@@ -1,4 +1,4 @@
-# 🔢 Smart Table Generator (JavaScript Day 12)
+# 🔢 Smart Table Generator 
 **Live Demo:** [TableCraft – Smart Tables](https://your-live-link-here.vercel.app/)
 
 A **modern and responsive multiplication table generator** built using **HTML, CSS & JavaScript**.  
