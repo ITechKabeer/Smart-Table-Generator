@@ -75,6 +75,8 @@ smart-table-generator/
 - Clean UI/UX practices
 - JavaScript loops & logic
 
+---
+
 ## 📸 Preview
 
 *![App Preview](demo.jpeg)*
